@@ -30,9 +30,16 @@ pip-delete-this-directory.txt
 venv/
 ENV/
 
+# generated 3D complexes and logs
+results/*.pdb
+results/*.log
+results/*.pml
+
+# intermediate processed data
+data/processed/
+
 __pycache__/
 *.py[cod]
 *$py.class
 *.pyc
 
-.ipynb
