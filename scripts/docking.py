@@ -112,7 +112,8 @@ def run_vina_docking(receptor_pdbqt, ligand_pdbqt, center_coords, box_size=22.0,
 
     # Build the exact command line arguments for your Windows .\vina.exe
     cmd = [
-        r".\vina.exe",
+        # r".\vina.exe",
+        vina_executable,
         "--receptor", receptor_pdbqt,
         "--ligand", ligand_pdbqt,
         "--center_x", str(center_coords[0]),
