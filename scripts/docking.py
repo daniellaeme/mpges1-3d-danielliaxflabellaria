@@ -11,7 +11,7 @@ if platform.system() == 'Windows':
     vina_executable = '.\\vina.exe'
 else:
     # Use the Linux executable for Colab
-    vina_executable = './vina'
+    vina_executable = '/content/vina'
 
 
 def prep_ligand_pdbqt(input_sdf_path, output_pdbqt_path):
