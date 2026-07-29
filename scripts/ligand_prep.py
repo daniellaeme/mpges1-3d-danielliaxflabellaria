@@ -22,6 +22,7 @@ def prep_ligand(smiles, output_path=os.path.join('.', 'data', 'processed', 'liga
     params = AllChem.ETKDGv3()
     params.randomSeed = 42
     params.useBasicKnowledge = True     # Enforces basic chemical rules
+    params.maxAttempts = 500
 
     # Embed Conformers
     num_confs = 50

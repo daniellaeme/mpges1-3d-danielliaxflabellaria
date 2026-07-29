@@ -1610,8 +1610,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   SER A  10       8.817  -2.450  24.574  1.00  0.00    +0.000 NA
 ATOM      2  CA  SER A  10       9.363  -3.782  24.473  1.00  0.00    +0.000 C 
-ATOM      3  H   SER A  10       9.354  -1.913  25.256  1.00  0.00    +0.000 HD
-ATOM      4  H   SER A  10       7.843  -2.503  24.874  1.00  0.00    +0.000 HD
+ATOM      3  H   SER A  10       9.516  -1.772  24.269  1.00  0.00    +0.000 HD
+ATOM      4  H   SER A  10       8.559  -2.261  25.543  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -3203,7 +3203,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  CB  SER A  10       8.410  -4.597  23.478  1.00  0.00    +0.000 C 
 ATOM      2  OG  SER A  10       7.189  -4.902  24.118  1.00  0.00    +0.000 OA
-ATOM      3  H   SER A  10       7.136  -4.422  24.959  1.00  0.00    +0.000 HD
+ATOM      3  H   SER A  10       6.452  -4.566  23.584  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -6973,7 +6973,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  O   CYS A  19      13.531   0.664   8.494  1.00  0.00    +0.000 OA
 ATOM      2  H   CYS A  19      14.501   0.664   8.494  1.00  0.00    +0.000 HD
-ATOM      3  H   CYS A  19      13.208   1.255   7.796  1.00  0.00    +0.000 HD
+ATOM      3  H   CYS A  19      13.208   1.428   7.992  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -8035,8 +8035,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   SER A  20      12.220   0.342  10.286  1.00  0.00    +0.000 NA
 ATOM      2  CA  SER A  20      11.012   0.682   9.555  1.00  0.00    +0.000 C 
-ATOM      3  H   SER A  20      12.070  -0.522  10.807  1.00  0.00    +0.000 HD
-ATOM      4  H   SER A  20      12.448   1.095  10.935  1.00  0.00    +0.000 HD
+ATOM      3  H   SER A  20      13.027   0.433   9.669  1.00  0.00    +0.000 HD
+ATOM      4  H   SER A  20      12.155  -0.619  10.622  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -10739,7 +10739,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  OG1 THR A  21      11.432   6.786  10.245  1.00  0.00    +0.000 OA
 ATOM      2  H   THR A  21      12.402   6.786  10.245  1.00  0.00    +0.000 HD
-ATOM      3  H   THR A  21      11.109   6.752  11.159  1.00  0.00    +0.000 HD
+ATOM      3  H   THR A  21      11.109   7.613   9.854  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -12329,8 +12329,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   MET A  27      11.613   4.641   0.698  1.00  0.00    +0.000 NA
 ATOM      2  H   MET A  27      12.633   4.641   0.698  1.00  0.00    +0.000 HD
-ATOM      3  H   MET A  27      11.273   5.475   0.219  1.00  0.00    +0.000 HD
-ATOM      4  H   MET A  27      11.273   4.639   1.660  1.00  0.00    +0.000 HD
+ATOM      3  H   MET A  27      11.273   5.545   0.370  1.00  0.00    +0.000 HD
+ATOM      4  H   MET A  27      11.273   4.473   1.645  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -14445,7 +14445,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  O   MET A  27      10.066   6.405  -1.907  1.00  0.00    +0.000 OA
 ATOM      2  H   MET A  27      11.036   6.405  -1.907  1.00  0.00    +0.000 HD
-ATOM      3  H   MET A  27       9.743   7.314  -2.007  1.00  0.00    +0.000 HD
+ATOM      3  H   MET A  27       9.743   6.110  -1.041  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -16562,7 +16562,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  SD  MET A  27       7.614   1.985   0.953  1.00  0.00    +0.000 S 
 ATOM      2  CE  MET A  27       6.713   2.201  -0.170  1.00  0.00    +0.000 C 
-ATOM      3  H   MET A  27       8.780   1.451   0.502  1.00  0.00    +0.000 HD
+ATOM      3  H   MET A  27       8.809   2.582   0.697  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -18475,8 +18475,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   SER A  61       4.786   7.590 -21.774  1.00  0.00    +0.000 NA
 ATOM      2  H   SER A  61       5.806   7.590 -21.774  1.00  0.00    +0.000 HD
-ATOM      3  H   SER A  61       4.446   8.009 -22.640  1.00  0.00    +0.000 HD
-ATOM      4  H   SER A  61       4.446   8.130 -20.978  1.00  0.00    +0.000 HD
+ATOM      3  H   SER A  61       4.446   8.466 -22.170  1.00  0.00    +0.000 HD
+ATOM      4  H   SER A  61       4.446   7.495 -20.817  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -20594,7 +20594,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  O   SER A  61       7.421   7.271 -22.245  1.00  0.00    +0.000 OA
 ATOM      2  H   SER A  61       8.391   7.271 -22.245  1.00  0.00    +0.000 HD
-ATOM      3  H   SER A  61       7.098   6.409 -21.941  1.00  0.00    +0.000 HD
+ATOM      3  H   SER A  61       7.098   6.912 -23.086  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -23805,8 +23805,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   GLU A  66       8.832   3.839 -15.773  1.00  0.00    +0.000 NA
 ATOM      2  CA  GLU A  66       8.115   2.618 -15.477  1.00  0.00    +0.000 C 
-ATOM      3  H   GLU A  66       9.731   3.611 -16.197  1.00  0.00    +0.000 HD
-ATOM      4  H   GLU A  66       8.986   4.361 -14.910  1.00  0.00    +0.000 HD
+ATOM      3  H   GLU A  66       9.793   3.758 -15.441  1.00  0.00    +0.000 HD
+ATOM      4  H   GLU A  66       8.376   4.623 -15.306  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -25927,7 +25927,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  O   GLU A  66       8.289   1.139 -13.591  1.00  0.00    +0.000 OA
 ATOM      2  H   GLU A  66       9.259   1.139 -13.591  1.00  0.00    +0.000 HD
-ATOM      3  H   GLU A  66       7.966   0.248 -13.798  1.00  0.00    +0.000 HD
+ATOM      3  H   GLU A  66       7.966   1.450 -12.731  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -28599,8 +28599,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   LEU A  69       8.516   3.172 -11.035  1.00  0.00    +0.000 NA
 ATOM      2  H   LEU A  69       9.536   3.172 -11.035  1.00  0.00    +0.000 HD
-ATOM      3  H   LEU A  69       8.176   3.965 -11.578  1.00  0.00    +0.000 HD
-ATOM      4  H   LEU A  69       8.176   3.246 -10.076  1.00  0.00    +0.000 HD
+ATOM      3  H   LEU A  69       8.176   3.547 -10.150  1.00  0.00    +0.000 HD
+ATOM      4  H   LEU A  69       8.176   2.218 -11.153  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -30715,7 +30715,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  O   LEU A  69       6.482   1.055  -9.079  1.00  0.00    +0.000 OA
 ATOM      2  H   LEU A  69       7.452   1.055  -9.079  1.00  0.00    +0.000 HD
-ATOM      3  H   LEU A  69       6.159   1.908  -8.750  1.00  0.00    +0.000 HD
+ATOM      3  H   LEU A  69       6.159   0.472  -9.784  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -33398,8 +33398,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   ARG A  73       6.245   0.129  -6.376  1.00  0.00    +0.000 NA
 ATOM      2  CA  ARG A  73       5.176  -0.795  -6.156  1.00  0.00    +0.000 C 
-ATOM      3  H   ARG A  73       6.934   0.036  -5.630  1.00  0.00    +0.000 HD
-ATOM      4  H   ARG A  73       5.877   1.080  -6.382  1.00  0.00    +0.000 HD
+ATOM      3  H   ARG A  73       7.109  -0.385  -6.546  1.00  0.00    +0.000 HD
+ATOM      4  H   ARG A  73       6.358   0.721  -5.553  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -35515,7 +35515,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  O   ARG A  73       4.981  -2.480  -4.463  1.00  0.00    +0.000 OA
 ATOM      2  H   ARG A  73       5.951  -2.480  -4.463  1.00  0.00    +0.000 HD
-ATOM      3  H   ARG A  73       4.658  -2.136  -5.310  1.00  0.00    +0.000 HD
+ATOM      3  H   ARG A  73       4.658  -2.935  -5.256  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -38199,8 +38199,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   MET A  76       5.787  -1.232  -1.878  1.00  0.00    +0.000 NA
 ATOM      2  CA  MET A  76       4.474  -1.228  -1.229  1.00  0.00    +0.000 C 
-ATOM      3  H   MET A  76       5.743  -1.789  -2.732  1.00  0.00    +0.000 HD
-ATOM      4  H   MET A  76       6.478  -1.635  -1.245  1.00  0.00    +0.000 HD
+ATOM      3  H   MET A  76       5.691  -0.909  -2.841  1.00  0.00    +0.000 HD
+ATOM      4  H   MET A  76       6.166  -2.179  -1.873  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -40316,7 +40316,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  O   MET A  76       3.241  -2.885   0.010  1.00  0.00    +0.000 OA
 ATOM      2  H   MET A  76       4.211  -2.885   0.010  1.00  0.00    +0.000 HD
-ATOM      3  H   MET A  76       2.918  -3.660   0.496  1.00  0.00    +0.000 HD
+ATOM      3  H   MET A  76       2.918  -1.999  -0.216  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -41375,7 +41375,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  CG  MET A  76       3.780   1.024  -2.124  1.00  0.00    +0.000 C 
 ATOM      2  SD  MET A  76       2.453   2.081  -2.727  1.00  0.00    +0.000 S 
-ATOM      3  H   MET A  76       2.856   3.379  -2.692  1.00  0.00    +0.000 HD
+ATOM      3  H   MET A  76       2.271   1.866  -4.057  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -43975,8 +43975,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   SER A 127      15.953 -10.659  -7.675  1.00  0.00    +0.000 NA
 ATOM      2  H   SER A 127      16.973 -10.659  -7.675  1.00  0.00    +0.000 HD
-ATOM      3  H   SER A 127      15.613 -10.579  -8.633  1.00  0.00    +0.000 HD
-ATOM      4  H   SER A 127      15.613  -9.869  -7.127  1.00  0.00    +0.000 HD
+ATOM      3  H   SER A 127      15.613 -11.182  -6.868  1.00  0.00    +0.000 HD
+ATOM      4  H   SER A 127      15.613 -11.097  -8.531  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -46095,7 +46095,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  O   SER A 127      14.833 -12.718  -4.976  1.00  0.00    +0.000 OA
 ATOM      2  H   SER A 127      15.803 -12.718  -4.976  1.00  0.00    +0.000 HD
-ATOM      3  H   SER A 127      14.510 -13.606  -4.758  1.00  0.00    +0.000 HD
+ATOM      3  H   SER A 127      14.510 -13.506  -4.512  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -48258,8 +48258,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   LEU A 132      15.359 -13.046   0.048  1.00  0.00    +0.000 NA
 ATOM      2  H   LEU A 132      16.379 -13.046   0.048  1.00  0.00    +0.000 HD
-ATOM      3  H   LEU A 132      15.019 -14.008   0.061  1.00  0.00    +0.000 HD
-ATOM      4  H   LEU A 132      15.019 -12.576  -0.791  1.00  0.00    +0.000 HD
+ATOM      3  H   LEU A 132      15.019 -13.825   0.612  1.00  0.00    +0.000 HD
+ATOM      4  H   LEU A 132      15.019 -13.145  -0.909  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -50930,8 +50930,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   LEU A 135      12.055 -13.703   3.786  1.00  0.00    +0.000 NA
 ATOM      2  H   LEU A 135      13.075 -13.703   3.786  1.00  0.00    +0.000 HD
-ATOM      3  H   LEU A 135      11.715 -14.662   3.858  1.00  0.00    +0.000 HD
-ATOM      4  H   LEU A 135      11.715 -13.286   2.920  1.00  0.00    +0.000 HD
+ATOM      3  H   LEU A 135      11.715 -13.371   4.688  1.00  0.00    +0.000 HD
+ATOM      4  H   LEU A 135      11.715 -14.651   3.622  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -53046,7 +53046,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  O   LEU A 135      11.036 -14.929   6.931  1.00  0.00    +0.000 OA
 ATOM      2  H   LEU A 135      12.006 -14.929   6.931  1.00  0.00    +0.000 HD
-ATOM      3  H   LEU A 135      10.713 -15.843   6.972  1.00  0.00    +0.000 HD
+ATOM      3  H   LEU A 135      10.713 -14.136   6.476  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -55236,8 +55236,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   LEU A 145       0.813 -15.735  13.975  1.00  0.00    +0.000 NA
 ATOM      2  CA  LEU A 145      -0.271 -16.630  13.836  1.00  0.00    +0.000 C 
-ATOM      3  H   LEU A 145       1.635 -16.244  14.300  1.00  0.00    +0.000 HD
-ATOM      4  H   LEU A 145       0.572 -15.011  14.652  1.00  0.00    +0.000 HD
+ATOM      3  H   LEU A 145       1.634 -16.120  13.507  1.00  0.00    +0.000 HD
+ATOM      4  H   LEU A 145       1.018 -15.601  14.965  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -57352,7 +57352,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  O   LEU A 145      -1.456 -17.661  15.715  1.00  0.00    +0.000 OA
 ATOM      2  H   LEU A 145      -0.486 -17.661  15.715  1.00  0.00    +0.000 HD
-ATOM      3  H   LEU A 145      -1.779 -17.054  15.031  1.00  0.00    +0.000 HD
+ATOM      3  H   LEU A 145      -1.779 -18.364  15.130  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -61071,8 +61071,8 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  N   GLU A 147       0.813 -17.102  18.117  1.00  0.00    +0.000 NA
 ATOM      2  H   GLU A 147       1.833 -17.102  18.117  1.00  0.00    +0.000 HD
-ATOM      3  H   GLU A 147       0.473 -17.485  17.235  1.00  0.00    +0.000 HD
-ATOM      4  H   GLU A 147       0.473 -16.147  18.227  1.00  0.00    +0.000 HD
+ATOM      3  H   GLU A 147       0.473 -17.612  17.302  1.00  0.00    +0.000 HD
+ATOM      4  H   GLU A 147       0.473 -16.141  18.083  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
@@ -64779,7 +64779,7 @@ REMARK                            x       y       z     vdW  Elec       q    Typ
 REMARK                         _______ _______ _______ _____ _____    ______ ____
 ATOM      1  OE2 GLU A 147       3.372 -17.441  21.112  1.00  0.00    +0.000 OA
 ATOM      2  H   GLU A 147       4.342 -17.441  21.112  1.00  0.00    +0.000 HD
-ATOM      3  H   GLU A 147       3.049 -18.287  20.764  1.00  0.00    +0.000 HD
+ATOM      3  H   GLU A 147       3.049 -17.662  20.225  1.00  0.00    +0.000 HD
 REMARK  Name = .\data\processed\receptor_prep\receptor_clean.pdb
 REMARK  522 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
