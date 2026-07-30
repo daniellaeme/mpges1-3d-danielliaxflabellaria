@@ -66,6 +66,7 @@ if __name__ == '__main__':
     # COMPOUND LIBRARY
     compounds = {
         # Daniellia oliveri (Phenolics & Flavonoids)
+        # Data Source: Standardized literature profiles (Sofidiya et al.) focusing on polar, anti-inflammatory fractions.
         'Caffeic acid': 'C1=CC(=C(C=C1/C=C/C(=O)O)O)O',
         'p-Coumaric acid': 'C1=CC(=CC=C1/C=C/C(=O)O)O',
         'Ferulic acid': 'COC1=C(C=CC(=C1)/C=C/C(=O)O)O',
@@ -73,14 +74,17 @@ if __name__ == '__main__':
         'Apigenin-7-glucoside': 'C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O',
         'Quercetin': 'C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O',
         'Kaempferol': 'C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O',
+        'Catechin': 'C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O',
 
-        # Flabellaria paniculata (Fatty Acids & Terpenoids)
-        'Cyclododecyne': 'C1CCCCCC#CCCCC1',
-        'Hexadecanoic acid': 'CCCCCCCCCCCCCCCC(=O)O',                           # Also covers n-Hexadecanoic acid
-        # '(E)-9-Octadecenoic acid ethyl ester': 'CCCCCCCC/C=C/CCCCCCCC(=O)OCC',  # Ethyl oleate
-        # 'Phytol': 'C[C@@H](CCC[C@@H](C)CCC/C(=C/CO)/C)CCCC(C)C',
+        # Flabellaria paniculata (Fatty Acids & Terpenoids/ Volatile Oils & Extracts)
+        # Data Sources: GC-MS data from Oladosu et al. (2012) & EtOAc extracts from Sofidiya (2023).
+        # Note: Any compound with an abundance of < 2.0% was automatically rejected
         'Friedelin': 'C[C@H]1C(=O)CC[C@@H]2[C@@]1(CC[C@H]3[C@]2(CC[C@@]4([C@@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C)C)C)C)C',
         'Beta-Sitosterol': 'CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C',
+        'alpha-Sabinene': 'CC(C)[C@]12CCC(=C)[C@H]1C2',
+        'beta-Elemene': 'CC(=C)[C@@H]1CC[C@@]([C@@H](C1)C(=C)C)(C)C=C',
+        'alpha-Humulene': 'C/C/1=C\\CC(/C=C/C/C(=C/CC1)/C)(C)C',
+        'Manool': 'C[C@]12CCCC([C@@H]1CCC(=C)[C@@H]2CC[C@](C)(C=C)O)(C)C',
 
         # NSAIDS
         'Ibuprofen': 'CC(C)CC1=CC=C(C=C1)C(C)C(=O)O',               # Non-Selective

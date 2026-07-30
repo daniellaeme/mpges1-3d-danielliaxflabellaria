@@ -53,3 +53,42 @@ Which of these would be most helpful for your research?
 [18] [https://scialert.net](https://scialert.net/fulltext/index.php?doi=ijb.2007.302.306)
 [19] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12680549/)
 [20] [https://www.phcogj.com](https://www.phcogj.com/article/2119)
+
+
+
+    # COMPOUND LIBRARY
+    compounds = {
+        # Daniellia oliveri (Phenolics & Flavonoids)
+        # Data Source: Standardized literature profiles (Sofidiya et al.) focusing on polar, anti-inflammatory fractions.
+        'Caffeic acid': 'C1=CC(=C(C=C1/C=C/C(=O)O)O)O',
+        'p-Coumaric acid': 'C1=CC(=CC=C1/C=C/C(=O)O)O',
+        'Ferulic acid': 'COC1=C(C=CC(=C1)/C=C/C(=O)O)O',
+        'Rutin': 'C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O',
+        'Apigenin-7-glucoside': 'C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O',
+        'Quercetin': 'C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O',
+        'Kaempferol': 'C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O',
+        'Catechin': 'C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O',
+
+        # Flabellaria paniculata (Fatty Acids & Terpenoids/ Volatile Oils & Extracts)
+        # Data Sources: GC-MS data from Oladosu et al. (2012) & EtOAc extracts from Sofidiya (2019).
+        # Note: Any compound with an abundance of < 2.0% was automatically rejected
+        # 'Cyclododecyne': 'C1CCCCCC#CCCCC1',
+        # 'Hexadecanoic acid': 'CCCCCCCCCCCCCCCC(=O)O',                           # Also covers n-Hexadecanoic acid
+        # '(E)-9-Octadecenoic acid ethyl ester': 'CCCCCCCC/C=C/CCCCCCCC(=O)OCC',  # Ethyl oleate
+        # 'Phytol': 'C[C@@H](CCC[C@@H](C)CCC/C(=C/CO)/C)CCCC(C)C',
+        'Friedelin': 'C[C@H]1C(=O)CC[C@@H]2[C@@]1(CC[C@H]3[C@]2(CC[C@@]4([C@@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C)C)C)C)C',
+        'Beta-Sitosterol': 'CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C',
+
+        # 'alpha-Pinene': 'CC1=C[C@H]2C[C@@H](C1)C2(C)C',
+        'alpha-Sabinene': 'CC(C)[C@]12CCC(=C)[C@H]1C2',
+        'beta-Elemene': 'CC(=C)[C@@H]1CC[C@@]([C@@H](C1)C(=C)C)(C)C=C',
+        'alpha-Humulene': 'C/C/1=C\\CC(/C=C/C/C(=C/CC1)/C)(C)C',
+        'Manool': 'C[C@]12CCCC([C@@H]1CCC(=C)[C@@H]2CC[C@](C)(C=C)O)(C)C',
+
+        # NSAIDS
+        'Ibuprofen': 'CC(C)CC1=CC=C(C=C1)C(C)C(=O)O',               # Non-Selective
+        'Diclofenac': 'C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl',  # Dual Inhibition
+        'Aspirin': 'CC(=O)OC1=CC=CC=C1C(=O)O',              # COX-1 Selective
+        'Celecoxib': 'CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F' # COX-2 Selective
+    }
+
