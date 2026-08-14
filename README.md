@@ -50,7 +50,7 @@ The docking simulation successfully identified the binding mode of the bioactive
 | alpha-Humulene       | -4.449            |
 
 ## Visual
-![rutin_docking_final.png](results/rutin_docking_final.png)
+<img width="1200" height="800" alt="APIGENIN_7_GLUCOSIDE_MPGES1_COMPLEX_PROTEIN_UNL_A_1" src="https://github.com/user-attachments/assets/f1453b2d-7670-40da-8676-253485f5849f" />
 
 *Figure: 3D Visualization showing Apigenin-7glucoside (green) docked in the mPGES-1 pocket, interacting with key residues (Arg70, Arg126).*
 
@@ -63,11 +63,6 @@ The docking simulation successfully identified the binding mode of the bioactive
     ├── 📁 data/
     │   └── 📁 raw/
     │       └── 📄 4AL0.pdb
-    ├── 📁 notes/
-    │   ├── 📄 Batch docking results summary_ terminal.txt
-    │   ├── 📄 Faculty of Pharmacy Virtual Confere.md
-    │   ├── 📄 prof sofidiyah's anti-inflammatory research.txt
-    │   └── 📄 rutin3d Technical Report.docx
     ├── 📁 scripts/
     │   ├── 📄 docking.py
     │   ├── 📄 generate_complex.py
